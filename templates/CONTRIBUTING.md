@@ -1,13 +1,34 @@
 ## Contributing
 
+👍🎉 First off, thanks for taking the time to contribute! 🎉👍
+
 [fork]: https://github.com/ORG/REPO/fork
 [pr]: https://github.com/ORG/REPO/compare
 [style]: STYLEGUIDE
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+Your help is essential for keeping it great.
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
+
+The following is a set of guidelines for contributing project. 
+The following is a set of guidelines for contributing project.
+
+### Issue Closure
+
+Bug reports will be closed if the issue has been inactive and the latest affected version no longer receives support. At the moment, Electron maintains its three latest major versions, with a new major version being released every 8 weeks.
+
+_If an issue has been closed and you still feel it's relevant, feel free to ping a maintainer or add a comment!_
+
+### Languages
+
+We accept issues in *any* language.
+When an issue is posted in a language besides English, it is acceptable and encouraged to post an English-translated copy as a reply.
+Anyone may post the translated reply.
+In most cases, a quick pass through translation software is sufficient.
+Having the original text _as well as_ the translation can help mitigate translation errors.
+
+Responses to posted issues may or may not be in the original language.
 
 ## Submitting a pull request
 
