@@ -1,6 +1,6 @@
 # Releasing Open Source
 
-You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](https://github.com/tuta-bits/oss-enterprise/blob/grag/templates/CONTRIBUTING.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
+You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](https://github.com/tuta-bits/oss-enterprise/blob/main/templates/CONTRIBUTING.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
 
 ## What should be open source?
 
