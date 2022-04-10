@@ -30,6 +30,8 @@ Having the original text _as well as_ the translation can help mitigate translat
 
 Responses to posted issues may or may not be in the original language.
 
+**Please note** that using non-English as an attempt to circumvent our [Code of Conduct](https://github.com/tuta-bits/oss-enterprise/blob/main/CODE_OF_CONDUCT.md) will be an immediate, and possibly indefinite, ban from the project.
+
 ## Submitting a pull request
 
 0. [Fork][fork] and clone the repository
