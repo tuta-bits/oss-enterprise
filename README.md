@@ -1,6 +1,6 @@
 # Releasing Open Source
 
-You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](issues/new?template=new-release.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
+You want to release something as open source? Awesome! It's up to you to get it ready, but don't worry, you are never alone. Open a [new issue](https://github.com/tuta-bits/oss-enterprise/blob/grag/templates/CONTRIBUTING.md) to get started. [Consider these questions as you start to open source the project.](docs/key-questions-for-choosing-projects.md)
 
 ## What should be open source?
 
@@ -12,7 +12,7 @@ It's easier to answer this question in terms of what should **not** be open sour
 
 ## Open Source Maintainer Expectations
 
-Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](docs/maintainers-guide.md) to understand what will be expected of you.
+Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](https://github.com/tuta-bits/oss-enterprise/blob/main/docs/maintainer-guide.md) to understand what will be expected of you.
 
 ## FAQ
 
